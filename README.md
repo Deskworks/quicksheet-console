@@ -8,7 +8,7 @@ A keyboard-driven spreadsheet TUI for the terminal. Open a CSV, edit it inline, 
 ## Quick Start
 
 ```bash
-git clone https://github.com/cemheren/quicksheet-console.git
+git clone https://github.com/Deskworks/quicksheet-console.git
 cd quicksheet-console
 dotnet run -c Release
 # or with a CSV
